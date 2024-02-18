@@ -1,5 +1,7 @@
 # InsightDigest - Global Article Summarization and Link Analysis chatbot
 
+The problem at hand revolves around addressing the challenge of information overload in the modern world. With an abundance of articles and updates available, it becomes increasingly difficult for individuals to identify and comprehend the most significant ones. Thus, the objective is to develop an interactive platform that utilizes advanced language processing techniques to filter articles based on user queries and provide concise, relevant summaries. Additionally, the platform should analyze relationships between articles to offer further insights to users.
+Here we present InsightDigest to address this problem.
 InsightDigest is an interactive platform designed to filter articles, generate summaries, and analyze relationships between articles based on user queries. It leverages advanced language processing techniques and a variety of libraries to provide concise and relevant information to users.
 
 ## Video-
